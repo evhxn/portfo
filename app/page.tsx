@@ -15,8 +15,7 @@ export default function Page() {
         collaboration and enjoy learning from every challenge i face, whether it's
         debugging robotics code or refining a 3d model. im currently seeking any
         role that involves creative engineering, where i can combine technical
-        skills with my passion for innovation.
-                `}
+        skills with my passion for innovation.`}
       </p>
       <div className="my-8">
         <BlogPosts />
