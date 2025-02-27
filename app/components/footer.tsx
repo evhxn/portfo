@@ -38,5 +38,10 @@ export default function Footer() {
             href="https://github.com/evhxn"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">github ▋
+            <p className="ml-2 h-7">github</p>
+          </a>
+        </li>
+      </ul>
+    </footer>
+  )
 }
