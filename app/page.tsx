@@ -10,9 +10,6 @@ export default function Page() {
         {`hello, i'm ethan tapia. im currently pursuing a b.s in computer science at chapman university, 
         as well as a m.s in electrical engineering & computer science starting fall 2026`}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
     </section>
   )
 }
